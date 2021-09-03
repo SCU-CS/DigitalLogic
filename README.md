@@ -1,9 +1,9 @@
 # 仓库介绍
 The template of course repository
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SCU-CS/Course-Template)
-![GitHub issues](https://img.shields.io/github/issues/SCU-CS/Course-Template)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.Course-Template)
+![GitHub repo size](https://img.shields.io/github/repo-size/SCU-CS/DigitalLogic)
+![GitHub issues](https://img.shields.io/github/issues/SCU-CS/DigitalLogic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SCU-CS.DigitalLogic)
 [![Generate-Power-With-Love](https://img.shields.io/badge/Generate--Power--With-Love-red)](https://github.com/SCU-CS/Contributors)
 
 > 创建之后，需要手动改上面几个链接 主要就是把 `Course-Template` 改成当前仓库名就好了。
